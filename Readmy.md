@@ -78,7 +78,6 @@ A Python GUI app to automatically sort files in a folder by extension or semanti
 
   * Minimum image dimensions for "small"
 
----
 
 ### Installation:
 
